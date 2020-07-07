@@ -31,6 +31,7 @@ class Root extends Component {
             <Route exact path={`${process.env.PUBLIC_URL}/portfolio-home`} component={HomePortfolio}/>
             <Route exact path={`${process.env.PUBLIC_URL}/portfolio-landing`} component={PortfolioLanding}/>
             <Route exact path={`${process.env.PUBLIC_URL}/dark-portfolio-landing`} component={DarkPortfolioLanding}/>
+            <Route exact path={`${process.env.PUBLIC_URL}/personal-portfolio`} component={PersonalPortfolio}/>
 
             {/* Element Layot */}
             <Route exact path={`${process.env.PUBLIC_URL}/service`} component={Service}/>
@@ -48,7 +49,7 @@ class Root extends Component {
             {/* 404 Route */}
             <Route path={`${process.env.PUBLIC_URL}/404`} component={error404}/>
             <Route component={error404}/>
-            
+
         </switch>
       </BrowserRouter>
     )
