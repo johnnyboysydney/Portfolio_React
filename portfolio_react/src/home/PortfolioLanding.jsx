@@ -30,7 +30,7 @@ const PortfolioLanding = () => {
                                     <div className="col-lg-12">
                                         <div className={`inner ${value.textPosition}`}>
                                             {value.category ? <span>{value.category}</span> : ''}
-                                            <h1 className="title">Hi, I’m Jone Doe <br/>
+                                            <h1 className="title">Hi, I’m John Merchan <br/>
                                             <TextLoop>
                                                 <span> JS Developer.</span>
                                                 <span> UI/UX Designer.</span>
