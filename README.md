@@ -92,12 +92,16 @@ Ensure that you have install all the dependencies required for this to work. See
 Yes, you can modify and refractor the code
 
 ### Screenshots
-![Screenshot](./assets/Screenshot1.jpg)
-![Screenshot](./assets/Screenshot2.jpg)
+![Screenshot1](https://user-images.githubusercontent.com/54227198/87052396-125ef880-c244-11ea-8f0a-7e8691adcb28.JPG)
+![screenshot2](https://user-images.githubusercontent.com/54227198/87052401-13902580-c244-11ea-833e-7f26c6db5880.jpg)
 
 ## License
 
 [MIT License](./LICENSE)
+
+## Acknowledgments
+
+- John "To my sons and daughters, who give me the power I need to keep going."
 
 ### Author
 
