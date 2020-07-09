@@ -25,22 +25,22 @@
 - [Tests](#tests)
 - [Built With](#built-with)
 - [Questions](#questions)
-- [Demo](#demo)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [CopyRight](#copyright)
 
 ## Link to the running application
 
-Under construction
+https://johnnyboysydney.github.io/Portfolio_React/
 
 ## Description
 
-Under construction
+A React version of my portfolio
 
 ## Development
 
-Under construction
+Created with npx create-react-app, and hosted on GitHub
+It is very minimalist and simple which is quite different from my current portfolio which is huge. 
 
 ## Installation
 
@@ -49,10 +49,26 @@ To use this application locally:
 - Clone the GitHub repository at:
 - You will to install all the dependencies, see [Dependencies](#dependencies) for the complete list
 - Using ```npm install```, install all the dependencies
+- Enter in the terminal ```npm run start``` and this will start the development local environment.
+- To deploy to production, run ```npm run build``` and this will trigger the build and then you can publich on GitHub, Heorku, Netfily or others.
 
 ### Dependencies
 
-Under construction
+- @fortawesome/fontawesome-svg-core
+- @fortawesome/free-brands-svg-icons
+- @fortawesome/free-regular-svg-icons
+- @fortawesome/free-solid-svg-icons
+- @fortawesome/react-fontawesome
+- aos
+- bootstrap
+- jquery
+- node-sass
+- react
+- react-dom
+- react-router-dom
+- react-scripts
+- typer-js
+
 
 ## Tests
 
@@ -75,13 +91,9 @@ Ensure that you have install all the dependencies required for this to work. See
 3. Can I refractor the code in the any of the files file?
 Yes, you can modify and refractor the code
 
-## Demo
-
-![Demo](./public/assets/demo/demo.gif)
-
 ### Screenshots
+![Screenshot](./assets/Screenshot1.jpg)
 
-Under construction
 
 ## License
 
@@ -99,4 +111,4 @@ Copyright 2020 &copy; John Merchan
 
 [Table of Content](#Table-of-Content) --- [Back to Top](#Portfolio_React ) --- [Installation](#Installation)
 
-==============================================================
+=================================================================================
