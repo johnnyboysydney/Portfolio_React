@@ -4,11 +4,16 @@
   "private": false,
   "homepage": "https://johnnyboysydney.github.io/Portfolio_React/",
   "dependencies": {
+    "@babel/preset-env": "^7.10.4",
+    "@babel/preset-react": "^7.10.4",
     "@fortawesome/fontawesome-svg-core": "^1.2.22",
     "@fortawesome/free-brands-svg-icons": "^5.10.2",
     "@fortawesome/free-regular-svg-icons": "^5.10.2",
     "@fortawesome/free-solid-svg-icons": "^5.10.2",
     "@fortawesome/react-fontawesome": "^0.1.4",
+    "@testing-library/jest-dom": "^5.11.0",
+    "@testing-library/react": "^10.4.5",
+    "@testing-library/user-event": "github:testing-library/user-event",
     "aos": "^2.3.4",
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
@@ -17,6 +22,7 @@
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.1.1",
+    "react-test-renderer": "^16.13.1",
     "typer-js": "^5.0.2"
   },
   "scripts": {
@@ -26,7 +32,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-
   },
   "eslintConfig": {
     "extends": "react-app"
