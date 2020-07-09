@@ -93,7 +93,7 @@ Yes, you can modify and refractor the code
 
 ### Screenshots
 ![Screenshot](./assets/Screenshot1.jpg)
-
+![Screenshot](./assets/Screenshot.jpg)
 
 ## License
 
