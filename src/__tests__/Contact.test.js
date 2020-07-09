@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Contact from '../Contact';
+import Contact from '../Contact.jsx';
 
 it('renders without crashing', () => {
     const div = document.createElement('div');
