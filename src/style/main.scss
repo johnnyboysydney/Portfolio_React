@@ -1,0 +1,181 @@
+// COLORS
+$bg: #202225;
+$bg2:#292b30;
+$yellowText: #4b9ab9;
+
+
+.yellow-text {
+    color: $yellowText !important;
+}
+
+hr.line {
+    margin: 100px 0;
+    border: 0;
+    height: 4px;
+    background-image: linear-gradient(to right, rgba(255, 136, 0, 0), rgba(72, 142, 189, 0.418), rgba(255, 174, 0, 0));
+    box-shadow: inset 0 0px 0px 0px rgba(253, 152, 0, 0);
+
+}
+.isDisabled {
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+.btn-git {
+    background-color: $yellowText;
+}
+.migtext{
+    color:#2f80a0;
+}
+.logo{
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+body {
+    background-color: $bg;
+
+    header {
+        nav {
+            background-color: $bg !important;
+
+            a.nav-link {
+                &:hover {
+                    color: $yellowText !important;
+                }
+            }
+        }
+
+        svg {
+            overflow: hidden;
+
+            width: 145%;
+
+            @media screen and (max-width:1000px) {
+                display: none;
+            }
+
+            &.ls1 {
+                top: -100px;
+                left: -45%;
+
+                g#line1 {
+                    fill: $bg2;
+
+                    rect {
+                        width: 200%;
+                    }
+                }
+
+                g#line2 {
+                    fill: $bg2;
+
+                    rect {
+                        width: 200%;
+                    }
+                }
+            }
+
+            &.ls2 {
+                top: -300px;
+                left: -45%;
+
+                g#line3 {
+                    fill: $yellowText;
+
+                    rect {
+                        width: 200%;
+                    }
+                }
+
+                g#line4 {
+                    fill: $bg2;
+
+                    rect {
+                        width: 200%;
+                    }
+                }
+            }
+        }
+
+        section {
+            height: 100vh;
+
+            div.container {
+                div.row {
+                    height: 100vh;
+
+                    div {
+                        div.jumbotron {
+                            p {
+                                font-size: 2em;
+                                color: #fff;
+                                @media screen and (max-width:550px) {
+                                    font-size: 1.5em;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+        }
+    }
+
+    main {
+        section.about {
+            div.container {
+
+                div.row.d-flex {
+                    @media screen and (min-width: 1000px) {
+                        height: 100vh;
+                    }
+
+                    img.profile {
+                        border: solid 2px $yellowText;
+                        border-radius: 10px;
+                        @media screen and (max-width:1000px) {
+                            margin-bottom: 40px;
+                        }
+                    }
+                }
+            }
+        }
+
+        section.portfolio {
+            div.container {
+                @media screen and (min-width: 1000px) {
+                    height: 100vh;
+                }
+
+            }
+
+        }
+
+        section.contact {
+            margin: 0 0 100px 0;
+
+            div.container {
+                @media screen and (min-width: 1000px) {
+                    height: 100vh;
+                }
+            }
+        }
+    }
+
+    footer {
+
+        div.footer {
+            div {
+                div {
+                    div {
+                        div.row {
+                            height: 250px;
+                        }
+                    }
+                }
+            }
+        }
+
+    }
+}
