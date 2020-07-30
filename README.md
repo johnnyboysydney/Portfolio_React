@@ -40,7 +40,7 @@ A React version of my portfolio
 ## Development
 
 Created with npx create-react-app, and hosted on GitHub
-It is very minimalist and simple which is quite different from my current portfolio which is huge. 
+It is very minimalist and simple which is quite different from my current portfolio which is huge
 
 ## Installation
 
@@ -69,7 +69,6 @@ To use this application locally:
 - react-scripts
 - typer-js
 
-
 ## Tests
 
 Work in progress. Ran out of time to implement these, I will get back to this project at a later date to finalize these
@@ -92,6 +91,7 @@ Ensure that you have install all the dependencies required for this to work. See
 Yes, you can modify and refractor the code
 
 ### Screenshots
+
 ![Screenshot1](https://user-images.githubusercontent.com/54227198/87052396-125ef880-c244-11ea-8f0a-7e8691adcb28.JPG)
 ![screenshot2](https://user-images.githubusercontent.com/54227198/87052401-13902580-c244-11ea-833e-7f26c6db5880.jpg)
 
@@ -115,4 +115,4 @@ Copyright 2020 &copy; John Merchan
 
 [Table of Content](#Table-of-Content) --- [Back to Top](#Portfolio_React ) --- [Installation](#Installation)
 
-=================================================================================
+===========================================================================
