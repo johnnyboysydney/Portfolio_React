@@ -7,7 +7,7 @@ import portImg3 from "../img/port3.PNG";
 import portImg4 from "../img/port4.PNG";
 import portImg5 from "../img/port5.PNG";
 import portImg6 from "../img/port6.PNG";
-import portImg6 from "../img/port7.PNG";
+import portImg7 from "../img/port7.PNG";
 
 // fontawesome
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
