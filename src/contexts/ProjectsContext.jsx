@@ -7,6 +7,7 @@ import portImg3 from "../img/port3.PNG";
 import portImg4 from "../img/port4.PNG";
 import portImg5 from "../img/port5.PNG";
 import portImg6 from "../img/port6.PNG";
+import portImg6 from "../img/port7.PNG";
 
 // fontawesome
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
@@ -89,8 +90,21 @@ const ProjectsContextProvider = (props) => {
         {
             id: 5,
             img: portImg6,
-            codeUrl: "https://brave-wright-72a364.netlify.app/",
-            liveUrl: "https://johnnyboysydney.github.io/PasswordGenerator/",
+            codeUrl: "https://github.com/johnnyboysydney/Portfolio_React",
+            liveUrl: "https://brave-wright-72a364.netlify.app/",
+            iconLive: faEye,
+            iconCode: faGithub,
+            style: {
+                color: "rgb(234, 231, 231)",
+                fontSize: "30px"
+                
+            }
+        },
+        {
+            id: 6,
+            img: portImg7,
+            codeUrl: "https://github.com/johnnyboysydney/Online_Marketplace_Net",
+            liveUrl: "https://online-marketplace-net.herokuapp.com/",
             iconLive: faEye,
             iconCode: faGithub,
             style: {
