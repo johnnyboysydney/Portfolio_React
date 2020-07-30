@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Portfolio_React/static/css/main.9d86fa47.chunk.css",
-    "main.js": "/Portfolio_React/static/js/main.e42d5ab2.chunk.js",
-    "main.js.map": "/Portfolio_React/static/js/main.e42d5ab2.chunk.js.map",
+    "main.js": "/Portfolio_React/static/js/main.72705374.chunk.js",
+    "main.js.map": "/Portfolio_React/static/js/main.72705374.chunk.js.map",
     "runtime~main.js": "/Portfolio_React/static/js/runtime~main.e0828357.js",
     "runtime~main.js.map": "/Portfolio_React/static/js/runtime~main.e0828357.js.map",
     "static/css/2.0f7c6dae.chunk.css": "/Portfolio_React/static/css/2.0f7c6dae.chunk.css",
-    "static/js/2.af601f7a.chunk.js": "/Portfolio_React/static/js/2.af601f7a.chunk.js",
-    "static/js/2.af601f7a.chunk.js.map": "/Portfolio_React/static/js/2.af601f7a.chunk.js.map",
+    "static/js/2.c7221e52.chunk.js": "/Portfolio_React/static/js/2.c7221e52.chunk.js",
+    "static/js/2.c7221e52.chunk.js.map": "/Portfolio_React/static/js/2.c7221e52.chunk.js.map",
     "index.html": "/Portfolio_React/index.html",
-    "precache-manifest.5a3a62c3a4e8e3764460c26dfc49044a.js": "/Portfolio_React/precache-manifest.5a3a62c3a4e8e3764460c26dfc49044a.js",
+    "precache-manifest.99720969c3f0cc78f4f8458dedf2e296.js": "/Portfolio_React/precache-manifest.99720969c3f0cc78f4f8458dedf2e296.js",
     "service-worker.js": "/Portfolio_React/service-worker.js",
     "static/css/2.0f7c6dae.chunk.css.map": "/Portfolio_React/static/css/2.0f7c6dae.chunk.css.map",
     "static/css/main.9d86fa47.chunk.css.map": "/Portfolio_React/static/css/main.9d86fa47.chunk.css.map",
@@ -19,6 +19,7 @@
     "static/media/port3.PNG": "/Portfolio_React/static/media/port3.3bc861b6.PNG",
     "static/media/port4.PNG": "/Portfolio_React/static/media/port4.4d095ce6.PNG",
     "static/media/port5.PNG": "/Portfolio_React/static/media/port5.cee81888.PNG",
-    "static/media/port6.PNG": "/Portfolio_React/static/media/port6.1f7414a6.PNG"
+    "static/media/port6.PNG": "/Portfolio_React/static/media/port6.1f7414a6.PNG",
+    "static/media/port7.PNG": "/Portfolio_React/static/media/port7.d18cfd28.PNG"
   }
 }
