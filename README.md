@@ -31,7 +31,7 @@
 
 ## Link to the running application
 
-https://johnnyboysydney.github.io/Portfolio_React/
+<https://johnnyboysydney.github.io/Portfolio_React/>
 
 ## Description
 
