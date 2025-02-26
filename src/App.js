@@ -29,7 +29,7 @@ function App() {
           <main>
             <About />
             <LineBreak />
-            <Davids section />
+            <DavidsSection />
             <Portfolio />
             <LineBreak />
             <Contact />
